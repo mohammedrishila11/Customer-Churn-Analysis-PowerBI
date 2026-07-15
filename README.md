@@ -144,7 +144,7 @@ Analysis includes:
 
 ### KPI Overview
 
-![KPI Overview](Dashboard%20Screenshots/Page1_KPI_Overview.png)
+![KPI](Dashboard_Screenshots/Page1_KPI_Overview.png)
 
 ---
 
