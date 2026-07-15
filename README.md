@@ -144,31 +144,31 @@ Analysis includes:
 
 ### KPI Overview
 
-(Add Screenshot Here)
+![KPI Overview](Dashboard%20Screenshots/Page1_KPI_Overview.png)
 
 ---
 
 ### Customer Profile
 
-(Add Screenshot Here)
+![Customer Profile](Dashboard%20Screenshots/Page2_Customer_Profile.png)
 
 ---
 
 ### Contract & Services
 
-(Add Screenshot Here)
+![Contract & Service](Dashboard%20Screenshots/Page3_Contract_Service.png)
 
 ---
 
 ### Revenue & Charges
 
-(Add Screenshot Here)
+![Revenue & Charges](Dashboard%20Screenshots/Page4_Revenue_Charges.png)
 
 ---
 
 ### Churn Risk & Tenure
 
-(Add Screenshot Here)
+![Churn Risk](Dashboard%20Screenshots/Page5_Churn_Risk.png)
 
 ---
 
